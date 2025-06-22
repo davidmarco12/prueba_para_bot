@@ -19,7 +19,7 @@ function sumaHastaN1(n) {
   console.log("Suma hasta " + n + ": " + suma);
 }
 
-// Función 4: Calcular la suma hasta otro número (idéntico código)
+// Función 4: Calcular la suma hasta otro número (== )
 function sumaHastaN2(m) {
   let suma = 0;
   for (let i = 1; i <= m; i++) {
